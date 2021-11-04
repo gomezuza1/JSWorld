@@ -262,6 +262,7 @@ section#skills {
 
 section#projects {
   background-color: var(--navColor4);
+  height: 800px;
 }
 
 section#contact {

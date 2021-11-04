@@ -122,6 +122,11 @@ const songs = [
       displayName: 'Front Row (Remix)',
       artist: 'Metric/Jacinto Design',
     },
+    {
+      name: 'javi-1',
+      displayName: 'So Will I',
+      artist: 'Hillsong United',
+    },
   ];
 
 
