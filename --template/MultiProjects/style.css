@@ -250,6 +250,8 @@ section#about {
 
 section#skills {
   background-color: var(--navColor3);
+  display:flex;
+  flex-wrap:wrap;
 }
 
 section#projects {
